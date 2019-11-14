@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python | Mohamad Assari</title>
+    <link>/tags/python/</link>
+      <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>python</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Aug 2019 03:54:34 +0430</lastBuildDate>
+    <image>
+      <url>/img/Mohamad_Assari.png</url>
+      <title>python</title>
+      <link>/tags/python/</link>
+    </image>
+    
+    <item>
+      <title>Graph Sampling Project</title>
+      <link>/project/graphsampling/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:34 +0430</pubDate>
+      <guid>/project/graphsampling/</guid>
+      <description>&lt;p&gt;Graph sampling from distance matrices using Spanning trees(minimum spanning tree, maximum spanning tree, low weighted and high weighted random walk spanning trees) and visualization of closeness centrality and betweenness centrality in these graphs.&lt;/p&gt;
+
+&lt;p&gt;The project was developed using some python libraries such as networkx, numpy and graphviz.&lt;/p&gt;
+
+&lt;p&gt;The main purpose of graph sampling is to construct smaller sub graph from large graph which
+is representative. A representative sample is one which preserve important properties of the graph.
+Graph sampling becomes more important when original Graph is massive. There is no
+perfect sample that can preserve all the properties of the original graph, so we should find the
+most appropriate one that can preserve the important properties for domain-specific goals.&lt;/p&gt;
+
+&lt;p&gt;I am currently working on this project and It is not completely finished yet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

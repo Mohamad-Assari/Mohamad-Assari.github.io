@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamad Assari</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohamad Assari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Aug 2019 03:54:55 +0430</lastBuildDate>
+    <image>
+      <url>/img/Mohamad_Assari.png</url>
+      <title>Mohamad Assari</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Project 2 Artificial Intelligence</title>
+      <link>/project/geneticalgorithm/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:55 +0430</pubDate>
+      <guid>/project/geneticalgorithm/</guid>
+      <description>&lt;p&gt;Devising a genetic algorithm for regression of  third degree polynomial&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/geneticRegression&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project 2 Algorithm Design</title>
+      <link>/project/dynamic-programming/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:48 +0430</pubDate>
+      <guid>/project/dynamic-programming/</guid>
+      <description>&lt;p&gt;Devising an efficient dynamic programming algorithm that finds optimal solution of a Dynamic Programming problem.&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/DynamicPro&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Sampling Project</title>
+      <link>/project/graphsampling/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:34 +0430</pubDate>
+      <guid>/project/graphsampling/</guid>
+      <description>&lt;p&gt;Graph sampling from distance matrices using Spanning trees(minimum spanning tree, maximum spanning tree, low weighted and high weighted random walk spanning trees) and visualization of closeness centrality and betweenness centrality in these graphs.&lt;/p&gt;
+
+&lt;p&gt;The project was developed using some python libraries such as networkx, numpy and graphviz.&lt;/p&gt;
+
+&lt;p&gt;The main purpose of graph sampling is to construct smaller sub graph from large graph which
+is representative. A representative sample is one which preserve important properties of the graph.
+Graph sampling becomes more important when original Graph is massive. There is no
+perfect sample that can preserve all the properties of the original graph, so we should find the
+most appropriate one that can preserve the important properties for domain-specific goals.&lt;/p&gt;
+
+&lt;p&gt;I am currently working on this project and It is not completely finished yet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CamScanner</title>
+      <link>/project/camscanner/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:17 +0430</pubDate>
+      <guid>/project/camscanner/</guid>
+      <description>&lt;p&gt;A simple CamScanner implemented with python using OpenCV library&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/CamScanner&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pacman</title>
+      <link>/project/pacman/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:17 +0430</pubDate>
+      <guid>/project/pacman/</guid>
+      <description>&lt;p&gt;This is my Project 2 of Advanced Programming course at Amirkabir University of Technology.&lt;/p&gt;
+
+&lt;p&gt;Design and Implementation of Pacman game using multithreading&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/Pacman&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project 1 Algorithm Design</title>
+      <link>/project/tsp/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:17 +0430</pubDate>
+      <guid>/project/tsp/</guid>
+      <description>&lt;p&gt;Implementation of Travelling salesman problem using both nearest neighbor algorithm and Exhaustive algorithm also comparing their complexities&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/TSP&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Dodger</title>
+      <link>/project/thedodger/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:17 +0430</pubDate>
+      <guid>/project/thedodger/</guid>
+      <description>&lt;p&gt;A fun 2D game implemented with java.&lt;/p&gt;
+
+&lt;p&gt;This was my midterm project of Advanced Programming course at Amirkabir University of Technology.&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/TheDodger&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project 1 Artificial Intelligence</title>
+      <link>/project/slidingpuzzle/</link>
+      <pubDate>Sat, 17 Aug 2019 03:53:47 +0430</pubDate>
+      <guid>/project/slidingpuzzle/</guid>
+      <description>&lt;p&gt;Solving Sliding Puzzle problem using A*, BFS, Bilateral, DFS and Uniform cost algorithms also comparing their complexities&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/slidingPuzzle&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:55 +0430</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a double major student and currently a senior undergraduate student at computer engineering department of &lt;a href=&#34;https://aut.ac.ir/en&#34; target=&#34;_blank&#34;&gt;Amirkabir University of Technology&lt;/a&gt;. I have recently finished my first bachelor degree in Physics from  &lt;a href=&#34;https://aut.ac.ir/en&#34; target=&#34;_blank&#34;&gt;Amirkabir University of Technology&lt;/a&gt; with GPA of 17.66 /20 . Prior to that, I received my diploma in Mathematics &amp;amp; Physics from (&lt;a href=&#34;https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents&#34; title=&#34;National Organization for Development of Exceptional Talents&#34; target=&#34;_blank&#34;&gt;NODET&lt;/a&gt;)  Shahid Beheshti high school - 2014&lt;/p&gt;
+
+&lt;p&gt;My research interests include Algorithms, Complexity Theory, Graph Theory and Game Theory.&lt;/p&gt;
+
+&lt;p&gt;Recently, I am doing a &lt;a href=&#34;project/graphsampling/&#34; target=&#34;_blank&#34;&gt;research (click to see more)&lt;/a&gt; on graph sampling using different spanning trees such as minimum spanning tree, maximum spanning tree, low weighted and high weighted random walk spanning trees. I am also working on visualization of these graphs in terms of closeness centrality, betweenness centrality and &amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;files/CV_Mohamad_Assari.pdf&#34; target=&#34;_blank&#34;&gt;My Curriculum Vitae (PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;GRE subject Physics score: 830 /990 - September 2018&lt;/p&gt;
+
+&lt;p&gt;TOEFL iBT score (November 2, 2018): 95 /120 (Reading: 26, Listening 23, Speaking 24, Writing 22)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

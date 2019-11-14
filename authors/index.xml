@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Mohamad Assari</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Aug 2019 03:54:55 +0430</lastBuildDate>
+    <image>
+      <url>/img/Mohamad_Assari.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:55 +0430</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a double major student and currently a senior undergraduate student at computer engineering department of &lt;a href=&#34;https://aut.ac.ir/en&#34; target=&#34;_blank&#34;&gt;Amirkabir University of Technology&lt;/a&gt;. I have recently finished my first bachelor degree in Physics from  &lt;a href=&#34;https://aut.ac.ir/en&#34; target=&#34;_blank&#34;&gt;Amirkabir University of Technology&lt;/a&gt; with GPA of 17.66 /20 . Prior to that, I received my diploma in Mathematics &amp;amp; Physics from (&lt;a href=&#34;https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents&#34; title=&#34;National Organization for Development of Exceptional Talents&#34; target=&#34;_blank&#34;&gt;NODET&lt;/a&gt;)  Shahid Beheshti high school - 2014&lt;/p&gt;
+
+&lt;p&gt;My research interests include Algorithms, Complexity Theory, Graph Theory and Game Theory.&lt;/p&gt;
+
+&lt;p&gt;Recently, I am doing a &lt;a href=&#34;project/graphsampling/&#34; target=&#34;_blank&#34;&gt;research (click to see more)&lt;/a&gt; on graph sampling using different spanning trees such as minimum spanning tree, maximum spanning tree, low weighted and high weighted random walk spanning trees. I am also working on visualization of these graphs in terms of closeness centrality, betweenness centrality and &amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;files/CV_Mohamad_Assari.pdf&#34; target=&#34;_blank&#34;&gt;My Curriculum Vitae (PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;GRE subject Physics score: 830 /990 - September 2018&lt;/p&gt;
+
+&lt;p&gt;TOEFL iBT score (November 2, 2018): 95 /120 (Reading: 26, Listening 23, Speaking 24, Writing 22)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

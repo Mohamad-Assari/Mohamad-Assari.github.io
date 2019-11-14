@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algorithm | Mohamad Assari</title>
+    <link>/tags/algorithm/</link>
+      <atom:link href="/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Algorithm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Aug 2019 03:54:55 +0430</lastBuildDate>
+    <image>
+      <url>/img/Mohamad_Assari.png</url>
+      <title>Algorithm</title>
+      <link>/tags/algorithm/</link>
+    </image>
+    
+    <item>
+      <title>Project 2 Artificial Intelligence</title>
+      <link>/project/geneticalgorithm/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:55 +0430</pubDate>
+      <guid>/project/geneticalgorithm/</guid>
+      <description>&lt;p&gt;Devising a genetic algorithm for regression of  third degree polynomial&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/geneticRegression&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project 2 Algorithm Design</title>
+      <link>/project/dynamic-programming/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:48 +0430</pubDate>
+      <guid>/project/dynamic-programming/</guid>
+      <description>&lt;p&gt;Devising an efficient dynamic programming algorithm that finds optimal solution of a Dynamic Programming problem.&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/DynamicPro&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CamScanner</title>
+      <link>/project/camscanner/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:17 +0430</pubDate>
+      <guid>/project/camscanner/</guid>
+      <description>&lt;p&gt;A simple CamScanner implemented with python using OpenCV library&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/CamScanner&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pacman</title>
+      <link>/project/pacman/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:17 +0430</pubDate>
+      <guid>/project/pacman/</guid>
+      <description>&lt;p&gt;This is my Project 2 of Advanced Programming course at Amirkabir University of Technology.&lt;/p&gt;
+
+&lt;p&gt;Design and Implementation of Pacman game using multithreading&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/Pacman&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project 1 Algorithm Design</title>
+      <link>/project/tsp/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:17 +0430</pubDate>
+      <guid>/project/tsp/</guid>
+      <description>&lt;p&gt;Implementation of Travelling salesman problem using both nearest neighbor algorithm and Exhaustive algorithm also comparing their complexities&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/TSP&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Dodger</title>
+      <link>/project/thedodger/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:17 +0430</pubDate>
+      <guid>/project/thedodger/</guid>
+      <description>&lt;p&gt;A fun 2D game implemented with java.&lt;/p&gt;
+
+&lt;p&gt;This was my midterm project of Advanced Programming course at Amirkabir University of Technology.&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/TheDodger&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilateral | Mohamad Assari</title>
+    <link>/tags/bilateral/</link>
+      <atom:link href="/tags/bilateral/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bilateral</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Aug 2019 03:53:47 +0430</lastBuildDate>
+    <image>
+      <url>/img/Mohamad_Assari.png</url>
+      <title>Bilateral</title>
+      <link>/tags/bilateral/</link>
+    </image>
+    
+    <item>
+      <title>Project 1 Artificial Intelligence</title>
+      <link>/project/slidingpuzzle/</link>
+      <pubDate>Sat, 17 Aug 2019 03:53:47 +0430</pubDate>
+      <guid>/project/slidingpuzzle/</guid>
+      <description>&lt;p&gt;Solving Sliding Puzzle problem using A*, BFS, Bilateral, DFS and Uniform cost algorithms also comparing their complexities&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/slidingPuzzle&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

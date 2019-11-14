@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dynamic-programming | Mohamad Assari</title>
+    <link>/tags/dynamic-programming/</link>
+      <atom:link href="/tags/dynamic-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>dynamic-programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Aug 2019 03:54:48 +0430</lastBuildDate>
+    <image>
+      <url>/img/Mohamad_Assari.png</url>
+      <title>dynamic-programming</title>
+      <link>/tags/dynamic-programming/</link>
+    </image>
+    
+    <item>
+      <title>Project 2 Algorithm Design</title>
+      <link>/project/dynamic-programming/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:48 +0430</pubDate>
+      <guid>/project/dynamic-programming/</guid>
+      <description>&lt;p&gt;Devising an efficient dynamic programming algorithm that finds optimal solution of a Dynamic Programming problem.&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/DynamicPro&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

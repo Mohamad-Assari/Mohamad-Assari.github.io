@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Mohamad Assari</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Aug 2019 03:54:55 +0430</lastBuildDate>
+    <image>
+      <url>/img/Mohamad_Assari.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>/tags/algorithm/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:55 +0430</pubDate>
+      <guid>/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial-Intelligence</title>
+      <link>/tags/artificial-intelligence/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:55 +0430</pubDate>
+      <guid>/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic</title>
+      <link>/tags/genetic/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:55 +0430</pubDate>
+      <guid>/tags/genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity</title>
+      <link>/tags/complexity/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:48 +0430</pubDate>
+      <guid>/tags/complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dynamic-programming</title>
+      <link>/tags/dynamic-programming/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:48 +0430</pubDate>
+      <guid>/tags/dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networkx</title>
+      <link>/tags/networkx/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:34 +0430</pubDate>
+      <guid>/tags/networkx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numpy</title>
+      <link>/tags/numpy/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:34 +0430</pubDate>
+      <guid>/tags/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/tags/python/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:34 +0430</pubDate>
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanning-tree</title>
+      <link>/tags/spanning-tree/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:34 +0430</pubDate>
+      <guid>/tags/spanning-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:34 +0430</pubDate>
+      <guid>/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A*</title>
+      <link>/tags/a/</link>
+      <pubDate>Sat, 17 Aug 2019 03:53:47 +0430</pubDate>
+      <guid>/tags/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFS</title>
+      <link>/tags/bfs/</link>
+      <pubDate>Sat, 17 Aug 2019 03:53:47 +0430</pubDate>
+      <guid>/tags/bfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilateral</title>
+      <link>/tags/bilateral/</link>
+      <pubDate>Sat, 17 Aug 2019 03:53:47 +0430</pubDate>
+      <guid>/tags/bilateral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFS</title>
+      <link>/tags/dfs/</link>
+      <pubDate>Sat, 17 Aug 2019 03:53:47 +0430</pubDate>
+      <guid>/tags/dfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uniform-cost</title>
+      <link>/tags/uniform-cost/</link>
+      <pubDate>Sat, 17 Aug 2019 03:53:47 +0430</pubDate>
+      <guid>/tags/uniform-cost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

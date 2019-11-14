@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genetic | Mohamad Assari</title>
+    <link>/tags/genetic/</link>
+      <atom:link href="/tags/genetic/index.xml" rel="self" type="application/rss+xml" />
+    <description>genetic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Aug 2019 03:54:55 +0430</lastBuildDate>
+    <image>
+      <url>/img/Mohamad_Assari.png</url>
+      <title>genetic</title>
+      <link>/tags/genetic/</link>
+    </image>
+    
+    <item>
+      <title>Project 2 Artificial Intelligence</title>
+      <link>/project/geneticalgorithm/</link>
+      <pubDate>Sat, 17 Aug 2019 03:54:55 +0430</pubDate>
+      <guid>/project/geneticalgorithm/</guid>
+      <description>&lt;p&gt;Devising a genetic algorithm for regression of  third degree polynomial&lt;/p&gt;
+
+&lt;p&gt;You can review my code in my &lt;a href=&#34;https://github.com/assarix/geneticRegression&#34; target=&#34;_blank&#34;&gt;github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/algorithm/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/geneticalgorithm/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/artificial-intelligence/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetic/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/dynamic-programming/</loc>
+    <lastmod>2019-08-17T03:54:48+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/complexity/</loc>
+    <lastmod>2019-08-17T03:54:48+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dynamic-programming/</loc>
+    <lastmod>2019-08-17T03:54:48+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/graphsampling/</loc>
+    <lastmod>2019-08-17T03:54:34+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/networkx/</loc>
+    <lastmod>2019-08-17T03:54:34+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/numpy/</loc>
+    <lastmod>2019-08-17T03:54:34+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2019-08-17T03:54:34+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spanning-tree/</loc>
+    <lastmod>2019-08-17T03:54:34+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/visualization/</loc>
+    <lastmod>2019-08-17T03:54:34+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/camscanner/</loc>
+    <lastmod>2019-08-17T03:54:17+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/pacman/</loc>
+    <lastmod>2019-08-17T03:54:17+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/tsp/</loc>
+    <lastmod>2019-08-17T03:54:17+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/thedodger/</loc>
+    <lastmod>2019-08-17T03:54:17+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/a/</loc>
+    <lastmod>2019-08-17T03:53:47+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bfs/</loc>
+    <lastmod>2019-08-17T03:53:47+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bilateral/</loc>
+    <lastmod>2019-08-17T03:53:47+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dfs/</loc>
+    <lastmod>2019-08-17T03:53:47+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/slidingpuzzle/</loc>
+    <lastmod>2019-08-17T03:53:47+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/uniform-cost/</loc>
+    <lastmod>2019-08-17T03:53:47+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+</urlset>
