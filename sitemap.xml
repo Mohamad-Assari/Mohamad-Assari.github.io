@@ -10,19 +10,26 @@
   <url>
     <loc>/tags/algorithm/</loc>
     <lastmod>2019-08-17T03:54:55+04:30</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/artificial-intelligence/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
     <lastmod>2019-08-17T03:54:55+04:30</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetic/</loc>
+    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
     <lastmod>2019-08-17T03:54:55+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -33,42 +40,26 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2019-08-17T03:54:55+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-08-17T03:54:55+04:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/artificial-intelligence/</loc>
-    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/genetic/</loc>
-    <lastmod>2019-08-17T03:54:55+04:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/dynamic-programming/</loc>
-    <lastmod>2019-08-17T03:54:48+04:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/complexity/</loc>
     <lastmod>2019-08-17T03:54:48+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/dynamic-programming/</loc>
     <lastmod>2019-08-17T03:54:48+04:30</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/dynamic-programming/</loc>
+    <lastmod>2019-08-17T03:54:48+04:30</lastmod>
   </url>
   
   <url>
@@ -79,31 +70,26 @@
   <url>
     <loc>/tags/networkx/</loc>
     <lastmod>2019-08-17T03:54:34+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/numpy/</loc>
     <lastmod>2019-08-17T03:54:34+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/python/</loc>
     <lastmod>2019-08-17T03:54:34+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/spanning-tree/</loc>
     <lastmod>2019-08-17T03:54:34+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/visualization/</loc>
     <lastmod>2019-08-17T03:54:34+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -129,25 +115,21 @@
   <url>
     <loc>/tags/a/</loc>
     <lastmod>2019-08-17T03:53:47+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/bfs/</loc>
     <lastmod>2019-08-17T03:53:47+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/bilateral/</loc>
     <lastmod>2019-08-17T03:53:47+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/dfs/</loc>
     <lastmod>2019-08-17T03:53:47+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -158,12 +140,10 @@
   <url>
     <loc>/tags/uniform-cost/</loc>
     <lastmod>2019-08-17T03:53:47+04:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -172,7 +152,6 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
