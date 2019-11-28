@@ -17,7 +17,7 @@
       <link>/project/graphsampling/</link>
       <pubDate>Sat, 17 Aug 2019 03:54:34 +0430</pubDate>
       <guid>/project/graphsampling/</guid>
-      <description>&lt;p&gt;Graph sampling from distance matrices using Spanning trees(minimum spanning tree, maximum spanning tree, low weighted and high weighted random walk spanning trees) and visualization of closeness centrality and betweenness centrality in these graphs.&lt;/p&gt;
+      <description>&lt;p&gt;Graph sampling from distance matrices using Spanning trees(minimum spanning tree, maximum spanning tree, low weighted and high weighted random walk spanning trees) and visualization of average shortest path, closeness centrality and betweenness centrality in these graphs.&lt;/p&gt;
 
 &lt;p&gt;The project was developed using some python libraries such as networkx, numpy and graphviz.&lt;/p&gt;
 
